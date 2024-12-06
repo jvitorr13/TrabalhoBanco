@@ -13,9 +13,3 @@ Simulação de um sistema de replicação Master/Slave usando Python e SQLite. O
 - **Python 3.x**
 - **SQLite**
 
-## Como Usar
-
-1. **Clonar o Repositório**:
-   ```bash
-   git clone https://github.com/<username>/<reponame>.git
-   cd <reponame>
